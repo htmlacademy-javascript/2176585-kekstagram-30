@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
 * Студент: [Ирина Шихалева](https://up.htmlacademy.ru/javascript/30/user/2176585).
-* Наставник: `Никита Сигов`.
+* Наставник: [Никита Сигов](https://htmlacademy.ru/profile/crazer).
 
 ---
 
